@@ -1,0 +1,11 @@
+beautifulsoup4==4.8.2
+certifi==2019.11.28
+cython>=0.25
+discord.py==1.6.0
+ipdb==0.13.4
+ipython==7.16.1
+lxml==4.2.4
+matplotlib==2.2.2
+scikit-learn==0.22.1
+#spacy==2.3.4
+spacy-lookups-data==0.3.2
